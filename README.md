@@ -3,9 +3,11 @@
 - 🔭 I'm interested in data science and artificial intelligence
 - :zap: I'm currently polishing my skills by working on projects, writing articles about them, and maybe turning them into websites.
 - 📫 If you'd like to collaborate, reach me on:
-  - njvcmkkmx
+  - :office: [LinkedIn] (https://www.linkedin.com/in/anichidera/)
+  - :email: chideraani27@gmail.com
+  - :bulb: [Medium] (https://medium.com/@chideraani27)
 
-https://medium.com/@chideraani27
+
 
 [![Chidera's github stats](https://github-readme-stats.vercel.app/api?username=chideraani&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
