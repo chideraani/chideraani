@@ -1,8 +1,9 @@
 ### Hello👋, my name is Chidera Ani
 
 - 🔭 I'm interested in data science and artificial intelligence
-- :zap:I'm currently polishing my skills by working on projects, writing articles about them, and maybe turning them into websites.
+- :zap: I'm currently polishing my skills by working on projects, writing articles about them, and maybe turning them into websites.
 - 📫 If you'd like to collaborate, reach me on:
+  - njvcmkkmx
 
 https://medium.com/@chideraani27
 
