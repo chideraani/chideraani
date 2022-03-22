@@ -6,6 +6,9 @@
   - :office: [LinkedIn] (https://www.linkedin.com/in/anichidera/)
   - :email: chideraani27@gmail.com
   - :bulb: [Medium] (https://medium.com/@chideraani27)
+
+
+## View some of works [here] (https://student-pattern-prediction-app.herokuapp.com/) and [here] (https://diadetect.herokuapp.com/)
 <!-- ## View my recent Medium article here:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chideraani27/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> -->
 
