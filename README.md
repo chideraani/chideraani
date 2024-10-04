@@ -1,7 +1,8 @@
 ### Hello👋, my name is Chidera Ani
 
 - 🔭 I'm interested in data science and artificial intelligence
-- :zap: I currently work in Deloitte as an analyst in the artificial intelligence and data team. This repository contains some of the personal projects I have worked on.
+- :zap: I currently work in Deloitte as an analyst in the artificial intelligence and data team. I enjoy working with datasets and building a web interface for my models. I also enjoy working on cloud solutions & building GenAI solutions.
+- 📝 This repository contains some of the personal projects I have worked on before my current role.
 - 📫 If you'd like to collaborate, reach me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/anichidera/)
   - :email: chideraani27@gmail.com
